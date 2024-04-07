@@ -1,0 +1,594 @@
+base 2:
+
+ numero 1: 0
+ numero 2: 1
+
+
+base 3:
+
+ numero 1: 1
+ numero 2: 0
+
+
+base 4:
+
+ numero 1: 1
+ numero 2: 2
+
+
+base 5:
+
+ numero 1: 2
+ numero 2: 0
+
+
+base 6:
+
+ numero 1: 2
+ numero 2: 2
+
+
+base 7:
+
+ numero 1: 2
+ numero 2: 6
+
+
+base 8:
+
+ numero 1: 3
+ numero 2: 2
+
+
+base 9:
+
+ numero 1: 3
+ numero 2: 6
+
+
+base 10:
+
+ numero 1: 4
+ numero 2: 1
+
+
+base 11:
+
+ numero 1: 4
+ numero 2: 6
+
+
+base 12:
+
+ numero 1: 4
+ numero 2: 11
+
+
+base 13:
+
+ numero 1: 5
+ numero 2: 5
+
+
+base 14:
+
+ numero 1: 5
+ numero 2: 11
+
+
+base 15:
+
+ numero 1: 6
+ numero 2: 3
+
+
+base 16:
+
+ numero 1: 6
+ numero 2: 10
+
+
+base 17:
+
+ numero 1: 7
+ numero 2: 0
+
+
+base 18:
+
+ numero 1: 7
+ numero 2: 8
+
+
+base 19:
+
+ numero 1: 7
+ numero 2: 16
+
+
+base 20:
+
+ numero 1: 8
+ numero 2: 5
+
+
+base 21:
+
+ numero 1: 8
+ numero 2: 14
+
+
+base 22:
+
+ numero 1: 9
+ numero 2: 2
+
+
+base 23:
+
+ numero 1: 9
+ numero 2: 12
+
+
+base 24:
+
+ numero 1: 9
+ numero 2: 22
+
+
+base 25:
+
+ numero 1: 10
+ numero 2: 8
+
+
+base 26:
+
+ numero 1: 10
+ numero 2: 20
+
+
+base 27:
+
+ numero 1: 11
+ numero 2: 4
+
+
+base 28:
+
+ numero 1: 11
+ numero 2: 16
+
+
+base 29:
+
+ numero 1: 12
+ numero 2: 0
+
+
+base 30:
+
+ numero 1: 12
+ numero 2: 12
+
+
+base 31:
+
+ numero 1: 12
+ numero 2: 26
+
+
+base 32:
+
+ numero 1: 13
+ numero 2: 8
+
+
+base 33:
+
+ numero 1: 13
+ numero 2: 22
+
+
+base 34:
+
+ numero 1: 14
+ numero 2: 2
+
+
+base 35:
+
+ numero 1: 14
+ numero 2: 17
+
+
+base 36:
+
+ numero 1: 14
+ numero 2: 32
+
+
+base 37:
+
+ numero 1: 15
+ numero 2: 12
+
+
+base 38:
+
+ numero 1: 15
+ numero 2: 28
+
+
+base 39:
+
+ numero 1: 16
+ numero 2: 6
+
+
+base 40:
+
+ numero 1: 16
+ numero 2: 22
+
+
+base 41:
+
+ numero 1: 16
+ numero 2: 40
+
+
+base 42:
+
+ numero 1: 17
+ numero 2: 16
+
+
+base 43:
+
+ numero 1: 17
+ numero 2: 34
+
+
+base 44:
+
+ numero 1: 18
+ numero 2: 9
+
+
+base 45:
+
+ numero 1: 18
+ numero 2: 28
+
+
+base 46:
+
+ numero 1: 19
+ numero 2: 2
+
+
+base 47:
+
+ numero 1: 19
+ numero 2: 21
+
+
+base 48:
+
+ numero 1: 19
+ numero 2: 42
+
+
+base 49:
+
+ numero 1: 20
+ numero 2: 14
+
+
+base 50:
+
+ numero 1: 20
+ numero 2: 35
+
+
+base 51:
+
+ numero 1: 21
+ numero 2: 6
+
+
+base 52:
+
+ numero 1: 21
+ numero 2: 28
+
+
+base 53:
+
+ numero 1: 21
+ numero 2: 50
+
+
+base 54:
+
+ numero 1: 22
+ numero 2: 19
+
+
+base 55:
+
+ numero 1: 22
+ numero 2: 42
+
+
+base 56:
+
+ numero 1: 23
+ numero 2: 10
+
+
+base 57:
+
+ numero 1: 23
+ numero 2: 34
+
+
+base 58:
+
+ numero 1: 24
+ numero 2: 1
+
+
+base 59:
+
+ numero 1: 24
+ numero 2: 25
+
+
+base 60:
+
+ numero 1: 24
+ numero 2: 51
+
+
+base 61:
+
+ numero 1: 25
+ numero 2: 16
+
+
+base 62:
+
+ numero 1: 25
+ numero 2: 42
+
+
+base 63:
+
+ numero 1: 26
+ numero 2: 6
+
+
+base 64:
+
+ numero 1: 26
+ numero 2: 32
+
+
+base 65:
+
+ numero 1: 26
+ numero 2: 60
+
+
+base 66:
+
+ numero 1: 27
+ numero 2: 22
+
+
+base 67:
+
+ numero 1: 27
+ numero 2: 50
+
+
+base 68:
+
+ numero 1: 28
+ numero 2: 11
+
+
+base 69:
+
+ numero 1: 28
+ numero 2: 40
+
+
+base 70:
+
+ numero 1: 28
+ numero 2: 69
+
+
+base 71:
+
+ numero 1: 29
+ numero 2: 29
+
+
+base 72:
+
+ numero 1: 29
+ numero 2: 59
+
+
+base 73:
+
+ numero 1: 30
+ numero 2: 17
+
+
+base 74:
+
+ numero 1: 30
+ numero 2: 48
+
+
+base 75:
+
+ numero 1: 31
+ numero 2: 4
+
+
+base 76:
+
+ numero 1: 31
+ numero 2: 36
+
+
+base 77:
+
+ numero 1: 31
+ numero 2: 68
+
+
+base 78:
+
+ numero 1: 32
+ numero 2: 24
+
+
+base 79:
+
+ numero 1: 32
+ numero 2: 57
+
+
+base 80:
+
+ numero 1: 33
+ numero 2: 10
+
+
+base 81:
+
+ numero 1: 33
+ numero 2: 44
+
+
+base 82:
+
+ numero 1: 33
+ numero 2: 79
+
+
+base 83:
+
+ numero 1: 34
+ numero 2: 31
+
+
+base 84:
+
+ numero 1: 34
+ numero 2: 66
+
+
+base 85:
+
+ numero 1: 35
+ numero 2: 17
+
+
+base 86:
+
+ numero 1: 35
+ numero 2: 53
+
+
+base 87:
+
+ numero 1: 36
+ numero 2: 3
+
+
+base 88:
+
+ numero 1: 36
+ numero 2: 39
+
+
+base 89:
+
+ numero 1: 36
+ numero 2: 76
+
+
+base 90:
+
+ numero 1: 37
+ numero 2: 25
+
+
+base 91:
+
+ numero 1: 37
+ numero 2: 63
+
+
+base 92:
+
+ numero 1: 38
+ numero 2: 9
+
+
+base 93:
+
+ numero 1: 38
+ numero 2: 48
+
+
+base 94:
+
+ numero 1: 38
+ numero 2: 87
+
+
+base 95:
+
+ numero 1: 39
+ numero 2: 33
+
+
+base 96:
+
+ numero 1: 39
+ numero 2: 73
+
+
+base 97:
+
+ numero 1: 40
+ numero 2: 17
+
+
+base 98:
+
+ numero 1: 40
+ numero 2: 58
+
+
+base 99:
+
+ numero 1: 41
+ numero 2: 0
+
+
+base 100:
+
+ numero 1: 41
+ numero 2: 42
+
+

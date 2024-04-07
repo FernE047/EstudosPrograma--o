@@ -1,0 +1,16 @@
+*.zip
+*.txt
+rsrs
+*.exe
+*.out
+*.o
+*.xlsm
+*.png
+*.bmp
+*.jpg
+*.cbp
+*.layout
+*.depend
+/VISUALG3_REV56
+*.dll
+*.dev
